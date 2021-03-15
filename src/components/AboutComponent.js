@@ -4,7 +4,7 @@ import LightBulb from './lightbulb.svg'
 const AboutComponent = ({title}) => {
     return (
         <div className='about-box'>
-            <img src={LightBulb} className='svg'/>
+            <img src={LightBulb} className='svg' alt=''/>
             <p className='box-title black'>
                 {title}
             </p>

@@ -20,7 +20,7 @@ const HomePage = () => {
                 <div className="home-content">
                     <div className="home-subtitle">Create Custom T-Shirts and Uniform</div>
                     <div className="home-title u">Creative Design</div>
-                    <div className="button-1 u"><a>Purchase Now</a></div>
+                    <div className="button-1 u"><a href='/'>Purchase Now</a></div>
                 </div>
 
             </div>
